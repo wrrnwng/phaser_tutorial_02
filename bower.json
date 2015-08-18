@@ -1,0 +1,18 @@
+{
+  "name": "phaser_tutorial_02",
+  "version": "0.0.0",
+  "authors": [
+    "Warren Wong <wrrnwng@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.4.2"
+  }
+}
